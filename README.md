@@ -1,5 +1,5 @@
 
-![Let it Snow!](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=C%2C%20C%2B%2B%2C%20Python%2C%20Linux%2C%20GitHub&fontSize=30&desc=Let%20it%20snow%20with%20tools%20❄️&descAlign=70)
+![Let it Snow!](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=C%2C%20C%2B%2B%2C%&fontSize=30&desc=Let%20it%20snow%20with%20tools%20❄️&descAlign=70)
 
 # ❄️ My Favorite Tools and Technologies ⚙️
 Tools and technologies that I have worked with and am interested in:
