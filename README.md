@@ -1,1 +1,1 @@
-![Let it Snow!](https://capsule-render.vercel.app/api?type=rect&height=304&color=gradient&text=Let%20it%20snow!&fontAlign=51&fontAlignY=55&descAlign=49&desc=❄️%20%20❄️%20%20❄️&backgroundColor=00416A&textColor=FFFFFF&fontSize=35)
+![Let it Snow!](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Let%20it%20Snow!&fontSize=30&desc=❄️%20Snowflakes%20Everywhere!%20❄️&descAlign=70&backgroundColor=4b9cd3)
