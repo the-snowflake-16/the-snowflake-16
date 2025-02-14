@@ -1,5 +1,5 @@
 ![Let it Snow!](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Let%20it%20Snow!&fontSize=30&desc=❄️%20Snowflakes%20Everywhere!%20❄️&descAlign=70&backgroundColor=4b9cd3)
-## ❄️ **My Favorite Tools and Technologies** ⚙️
+
 
 ## ❄️ My Favorite Tools and Technologies ⚙️
 
